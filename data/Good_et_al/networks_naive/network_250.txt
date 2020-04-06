@@ -1,0 +1,10 @@
+	mreB	nadR	pykF	rbsD	spoT	trkH	yfaQ	yhdG	yieO
+mreB	1	0	1	1	0	1	0	0	0
+nadR	0	1	1	0	0	0	0	0	1
+pykF	1	1	1	1	2	1	0	1	2
+rbsD	1	0	1	1	0	1	0	0	0
+spoT	0	0	2	0	1	0	0	1	0
+trkH	1	0	1	1	0	1	0	0	0
+yfaQ	0	0	0	0	0	0	1	0	0
+yhdG	0	0	1	0	1	0	0	1	0
+yieO	0	1	2	0	0	0	0	0	1
